@@ -3,6 +3,8 @@
 Venu is a location-aware social platform with real-time chat, calls, and mobile
 clients.
 
+[Launch the interactive product demo](https://ayoubodf-dev.github.io/venu-showcase/)
+
 ![Venu web interface](docs/images/demo.png)
 
 ## Highlights
